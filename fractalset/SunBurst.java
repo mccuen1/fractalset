@@ -1,3 +1,5 @@
+package fractalset;
+
 
 import java.awt.Graphics2D;
 import java.awt.geom.Line2D;
@@ -10,7 +12,6 @@ public class SunBurst {
     private double x;
     private double y;
     private int steps;
-    private double center;
 
     public SunBurst(int steps, double x, double y) {
         this.steps = steps;

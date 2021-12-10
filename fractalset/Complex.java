@@ -1,5 +1,5 @@
 
-// package com.eonsahead.fractalset;
+package fractalset;
 
 
 public class Complex {

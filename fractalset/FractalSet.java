@@ -1,4 +1,4 @@
-// package com.eonsahead.fractalset;
+package fractalset;
 
 //package com.eonsahead.fractalset;
 

@@ -1,4 +1,4 @@
-//package com.eonsahead.fractalset;
+package fractalset;
 
 //package com.eonsahead.fractalset;
 
@@ -70,10 +70,10 @@ public class FractalSetPanel extends JPanel {
         double yMin = 0;
         double yMax = BITMAP_HEIGHT - 1;
         
-        double uMin =  0.385;
-        double uMax =  0.395;
-        double vMin =  0.385;
-        double vMax =  0.395;
+        double uMin =  -2;
+        double uMax =  2;
+        double vMin =  -2;
+        double vMax =  2;
         
         for( int row = 0; row < BITMAP_HEIGHT; row++ ) {
             double y = row;
